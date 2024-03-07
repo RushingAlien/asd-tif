@@ -1,0 +1,11 @@
+TAMBAH FOLDER aab 100
+TAMBAH FOLDER a 200
+TAMBAH FOLDER aab 300
+TAMBAH FOLDER aabc 300
+CETAK /data
+CETAK /data/a
+HITUNG /data/a
+HITUNG /data/a/ab
+HITUNG /data/aab
+HITUNG /data/aab/aab
+
